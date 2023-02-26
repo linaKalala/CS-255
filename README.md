@@ -1,1 +1,5 @@
-# CS-255
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? The client was DriverPass, they wanted an online, web based system to help student practice their online test for the DMV as long as the driving test.
+What did you do particularly well? I liked writing the business system requirement document, I think it was great being able to gather the requirement and plan work accordingly. 
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? I would probably use my powerpoint to add more detail. 
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? The user's needs is the most important thing to consider to build a system. The user expects to see what they asked for not the opposite. 
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? To design software, I learned from this class that building diagrams to understand how the system will look like. Planning is the most important step in the design, 
